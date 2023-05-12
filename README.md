@@ -18,7 +18,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![Uploading maim3.png…]()
+
+![maim3](https://github.com/anithapalani2123/Muttiple-capacity-with-infinite-capacity/assets/94184990/944cc93e-e80e-420e-afb4-2889a1e231d6)
 
 ![maim4](https://github.com/anithapalani2123/Muttiple-capacity-with-infinite-capacity/assets/94184990/e2469f96-ae9f-4e02-b61f-1e4600241f92)
 
